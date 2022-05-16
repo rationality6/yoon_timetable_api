@@ -1,4 +1,4 @@
-# yoon_timetable_api
+# yoon_timetables_api
 
 
 ```
