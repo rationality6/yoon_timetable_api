@@ -16,4 +16,3 @@ https://dongjunson.github.io/yoonzzazang/
 
 https://nomidev.github.io/yoon_timetables.html
 
-https://yoonworkdays.tiiny.site/
